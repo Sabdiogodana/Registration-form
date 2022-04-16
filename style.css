@@ -1,0 +1,64 @@
+body{
+    background-image: linear-gradient(to right, rgb(175,133,53), rgb(224, 108, 224))
+  }
+  .section{
+  background-color: white;
+  height: 600px;
+  width: 1000px;
+  margin-top: 6%;
+  display: flex;
+  margin-left: 15%;
+  border-radius: 5px;
+  text-align: center;
+  }
+  .h4{
+     float: left; 
+     margin-right: 4%;
+  }
+  .section1{
+  background-color: rgb(233, 172, 60);
+  width: 700px
+  
+  }
+  .section2{
+  padding: 20px;
+  text-align: center;
+  }
+  .img{
+      text-align: center;
+  }
+  .form1{
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 2%;
+  }
+  label{
+  font-size: 20px;
+  }
+  input{
+  font-size: 20px;
+  }
+  .fform1{
+  padding: 10px;
+  }
+  .uname{
+  padding: 10px;
+  margin-right: 5%;
+  }
+  
+  .signupbtn{
+  padding: 15px;
+  background-color: rgb(207, 79, 101);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  
+  }
+  .signup{
+  background-color: blue;
+  padding: 15px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  }
